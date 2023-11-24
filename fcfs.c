@@ -13,7 +13,6 @@
         printf("P[%d]:",i+1);
         scanf("%d",&bt[i]);
     }
-
     wt[0]=0;   
 
     for(i=1;i<n;i++)
