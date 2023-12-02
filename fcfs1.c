@@ -10,7 +10,6 @@ int main()
      float twt=0.0;
      float tat= 0.0;
      float att,awt;
-
      printf("Enter the number of processes : ");
     scanf("%d",&n);
 
