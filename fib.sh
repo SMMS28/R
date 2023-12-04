@@ -7,6 +7,7 @@ echo "Fibonacci series:"
 echo $a
 echo $b
 while [ $count -le $n ]
+
 do
     fib=`expr $a + $b`
     a=$b
