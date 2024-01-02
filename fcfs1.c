@@ -22,7 +22,6 @@ int main()
     {
         scanf("%d",&at[i]);
     }
- 
     printf("Enter burst time of all the processes: ");
     for(int i=0;i<n;i++)
     {
