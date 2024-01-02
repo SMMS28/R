@@ -38,7 +38,6 @@ int main()
                  temp = at[j];
                  at[j] = at[j+1];
                  at[j+1]=temp;
-
                  ptemp=pid[j];
                  pid[j]=pid[j+1];
                  pid[j+1]=ptemp;
