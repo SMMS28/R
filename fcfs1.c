@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main()
 {
      int n;
@@ -12,7 +11,6 @@ int main()
      float att,awt;
      printf("Enter the number of processes : ");
     scanf("%d",&n);
-
     printf("Enter process id of all the processes: ");
     for(int i=0;i<n;i++)
     {
