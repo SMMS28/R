@@ -11,7 +11,6 @@ int main()
 {
 	int i,a[5];
 	pthread_t tid[5];
-	
 	sem_init(&room,0,4);
 	
 	for(i=0;i<5;i++)
