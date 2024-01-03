@@ -3,7 +3,6 @@
 #include<pthread.h>
 #include<semaphore.h>
 #include<unistd.h>
-
 sem_t room;
 sem_t chopstick[10];
 void * philosopher(void *);
