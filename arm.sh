@@ -2,6 +2,7 @@ echo "Enter a number: "
 read n
 
 temp=$n
+
 sum=0
 while [ $temp -gt 0 ]
 do
