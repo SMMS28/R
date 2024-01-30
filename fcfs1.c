@@ -15,7 +15,7 @@ int main()
     for(int i=0;i<n;i++)
     {
         scanf("%d",&pid[i]);
-        
+    
     }
     printf("Enter process arrival time ");
     for(int i=0;i<n;i++)
